@@ -1,0 +1,15 @@
+{
+  "name": "startup-tasks-automation",
+  "version": "1.0.0",
+  "description": "This package can be used to automate tasks that need to be executed when you boot your device, for example, open Google Chrome, Slack, some project in VS Code, etc.",
+  "main": "index.js",
+  "keywords": [
+    "startup tasks",
+    "automation",
+    "automate tasks",
+    "node.js automation"
+  ],
+  "author": "Dato Marjanidze <datomarjanidze10@gmail.com>",
+  "license": "ISC",
+  "repository": "https://github.com/datomarjanidze/startup-tasks-automation"
+}

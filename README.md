@@ -39,7 +39,7 @@ startupTasksAutomation.initiateBootSequence()
 ```
 
 ### Tip
-Above example code can be then transformed as an executable, for example
+Above code example can be then transformed as an executable, for example
 you can use NPM package called `pkg` in the following manner `pkg
 /path/to/my-automation-script.js --targets win` and this will generate
 an `exe` file which then can be copied to the folder where startup

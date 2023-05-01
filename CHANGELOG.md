@@ -1,3 +1,7 @@
+# 1.3.0 (2023-04-30)
+
+Correct `README.md`.
+
 # 1.2.0 (2023-04-30)
 
 Correct `README.md`.

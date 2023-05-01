@@ -1,4 +1,4 @@
-## Visible Memory Usage v1.2.0 Documentation
+## Visible Memory Usage v1.3.0 Documentation
 
 <p align="center">
   <a href="https://www.npmjs.com/package/startup-tasks-automation" target="_blank"><img src="https://img.shields.io/npm/v/startup-tasks-automation.svg" alt="NPM Version" /></a>
@@ -11,8 +11,8 @@
 - [Description](#Description)
 - [Installation](#Installation)
 - [Usage example](#Usage-example)
-- [Tip](#Tip)
 - [API](#API)
+- [Tip](#Tip)
 
 ### Description
 
@@ -48,15 +48,6 @@ const startupTasksAutomation = new StartupTasksAutomation([
 startupTasksAutomation.initiateBootSequence()
 ```
 
-### Tip
-
-Above code example can be then transformed as an executable, for example
-you can use NPM package called `pkg` in the following manner `pkg
-/path/to/my-automation-script.js --targets win` and this will generate
-an `exe` file which then can be copied to the folder where startup
-executables reside, e.g. on Windows this is `C:/Users/<username>/AppData/
-roaming/Microsoft/Windows/Start Menu/Programs/Startup`.
-
 ### API
 
 #### `class StartupTasksAutomation`
@@ -78,3 +69,12 @@ roaming/Microsoft/Windows/Start Menu/Programs/Startup`.
   - initiateBootSequence()
     - Returns: void
     - Description: starts tasks execution
+
+### Tip
+
+Above code example can be then transformed as an executable, for example
+you can use NPM package called `pkg` in the following manner `pkg
+/path/to/my-automation-script.js --targets win` and this will generate
+an `exe` file which then can be copied to the folder where startup
+executables reside, e.g. on Windows this is `C:/Users/<username>/AppData/
+roaming/Microsoft/Windows/Start Menu/Programs/Startup`.

@@ -1,4 +1,4 @@
-## Visible Memory Usage v1.3.0 Documentation
+## Visible Memory Usage v1.3.1 Documentation
 
 <p align="center">
   <a href="https://www.npmjs.com/package/startup-tasks-automation" target="_blank"><img src="https://img.shields.io/npm/v/startup-tasks-automation.svg" alt="NPM Version" /></a>

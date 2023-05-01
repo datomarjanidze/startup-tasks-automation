@@ -1,9 +1,9 @@
-import type { InputOptions, OutputOptions, RollupOptions } from 'rollup'
+import type { InputOptions, RollupOptions } from 'rollup'
 
 import typescriptPlugin from '@rollup/plugin-typescript'
 import dtsPlugin from 'rollup-plugin-dts'
 
-const outputPath = 'dist/visible-memory-usage'
+const outputPath = 'dist/startup-tasks-automation'
 const commonInputOptions: InputOptions = {
   input: 'src/index.ts',
   plugins: [typescriptPlugin()]

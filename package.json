@@ -1,6 +1,6 @@
 {
   "name": "startup-tasks-automation",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "This package can be used to automate tasks that need to be executed when you boot your device, for example, open Google Chrome, Slack, some project in VS Code, etc.",
   "main": "dist/startup-tasks-automation.cjs.js",
   "module": "dist/startup-tasks-automation.esm.js",

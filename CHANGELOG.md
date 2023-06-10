@@ -1,3 +1,7 @@
+# 1.4.0 (2023-06-10)
+
+Remove the downloads tag from `README.md`.
+
 # 1.3.1 (2023-04-30)
 
 Fix `rollup.config.ts`.

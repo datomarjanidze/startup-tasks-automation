@@ -5,7 +5,7 @@
   "main": "dist/startup-tasks-automation.cjs.js",
   "module": "dist/startup-tasks-automation.esm.js",
   "types": "dist/startup-tasks-automation.d.ts",
-  "author": "Dato Marjanidze <datomarjanidze10@gmail.com>",
+  "author": "Dato Marjanidze,
   "license": "ISC",
   "homepage": "https://github.com/datomarjanidze/startup-tasks-automation#readme",
   "files": [
